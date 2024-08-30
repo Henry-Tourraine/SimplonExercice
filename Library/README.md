@@ -8,6 +8,7 @@ Développer une API pour une librairie :
 Pour lancer l'application, créer un environnement virtuel, téléchargez les dépendances du requirements.txt et tapez :<br/>
 ```
 uvicorn main:app --reload
+```
 
 Etapes : 
 
