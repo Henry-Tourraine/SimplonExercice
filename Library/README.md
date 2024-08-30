@@ -6,7 +6,8 @@ Développer une API pour une librairie :
 - un utilisateur peut voir le nombre de livres qu'il a empruntés
 
 Pour lancer l'application, créer un environnement virtuel, téléchargez les dépendances du requirements.txt et tapez :<br/>
-```uvicorn main:app --reload
+```
+uvicorn main:app --reload
 
 Etapes : 
 
